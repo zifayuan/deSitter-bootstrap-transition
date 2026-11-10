@@ -39,3 +39,19 @@ Zifa Yuan
 # Date of Public Disclosure
 
 March/01/2026
+
+## Research Publication and Reference
+
+**Research Project:** Bootstrap Strengthening of Future de Sitter Expansion from Horizon–Thermodynamic Feedback
+
+**Author:** Zifa Yuan
+
+**Original Research Date:** March 1, 2026
+
+**Full Research Paper:** The complete theoretical research paper is available through the author's Zenodo research archive.
+
+**Zenodo:** [Research Publications](https://zenodo.org/records/21985399)
+
+**ORCID:** [0009-0000-6243-657X](https://orcid.org/0009-0000-6243-657X)
+
+**Research Status:** Independent theoretical research.
